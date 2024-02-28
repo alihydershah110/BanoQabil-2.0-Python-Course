@@ -41,7 +41,7 @@ Ami's Kitchen is a web application designed to help users organize and manage th
 
 To run Ami's Kitchen locally, follow these steps:
 
-1. Clone the repository:git clone https://github.com/AshhalAhmed/Ami-s_kitchen.git
+1. Clone the repository:git clone https://github.com/alihydershah110/BanoQabil-2.0-Python-Course.git
 
 
 2. Install Pillow library: pip install Pillow
